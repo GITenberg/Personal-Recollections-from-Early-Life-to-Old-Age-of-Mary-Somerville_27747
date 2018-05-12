@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/32884
     wikipedia: http://en.wikipedia.org/wiki/Mary_Somerville
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27747#Personal-Recollections-from-Early-Life-to-Old-Age-of-Mary-Somerville
 gutenberg_issued: '2009-01-08'
 gutenberg_type: Text
 identifiers:
